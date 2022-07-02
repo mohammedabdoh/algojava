@@ -1,7 +1,5 @@
 package com.mabdoh.dsa.techniques.sliding_window;
 
-import javax.swing.*;
-
 public class SmallestSubArrayWithGreaterSum {
     public static int solution(int[] arr, int sum) {
         // Kadane's algorithm
